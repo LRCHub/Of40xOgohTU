@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "鏡面の波",
+  "base_artist": "YURiKA",
+  "createdAt": "2026-03-20T13:31:23.833711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鏡面の波",
+      "artist": "YURiKA",
+      "has_synced": true,
+      "path": "select/01_鏡面の波_YURiKA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kyoumen no Nami (From \"Houseki no Kuni\") - 鏡面の波",
+      "artist": "Ryuven",
+      "has_synced": true,
+      "path": "select/02_Kyoumen_no_Nami_(From__Houseki_no_Kuni_)_-_鏡面の波_Ryuven.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kyoumen no Nami (Houseki no Kuni) - 鏡面の波",
+      "artist": "Ryuven",
+      "has_synced": true,
+      "path": "select/03_Kyoumen_no_Nami_(Houseki_no_Kuni)_-_鏡面の波_Ryuven.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "鏡面の波",
+      "artist": "YURiKA",
+      "has_synced": true,
+      "path": "select/04_鏡面の波_YURiKA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鏡面の波 [Orchestra Ver.]",
+      "artist": "YURiKA",
+      "has_synced": true,
+      "path": "select/05_鏡面の波_[Orchestra_Ver.]_YURiKA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "鏡面の波 [Orchestra Ver.]",
+      "artist": "YURiKA",
+      "has_synced": false,
+      "path": "select/06_鏡面の波_[Orchestra_Ver.]_YURiKA.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kyoumen no Nami (Houseki no Kuni) - 鏡面の波",
+      "artist": "Ryuven, Ner Leva",
+      "has_synced": true,
+      "path": "select/07_Kyoumen_no_Nami_(Houseki_no_Kuni)_-_鏡面の波_Ryuven,_Ner_Leva.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kyoumen no Nami (Houseki no Kuni) - 鏡面の波",
+      "artist": "Ner Leva",
+      "has_synced": true,
+      "path": "select/08_Kyoumen_no_Nami_(Houseki_no_Kuni)_-_鏡面の波_Ner_Leva.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "鏡面の波",
+      "artist": "YURiKA",
+      "has_synced": true,
+      "path": "select/09_鏡面の波_YURiKA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TVアニメ「宝石の国」OPテーマ「鏡面の波」",
+      "artist": "YURiKA",
+      "has_synced": true,
+      "path": "select/10_TVアニメ「宝石の国」OPテーマ「鏡面の波」_YURiKA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鏡面の波",
+      "artist": "YURiKA",
+      "has_synced": false,
+      "path": "select/pl_01_鏡面の波_YURiKA.txt"
+    }
+  ]
+}
